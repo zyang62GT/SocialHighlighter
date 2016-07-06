@@ -1,0 +1,13 @@
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe.config
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.exe
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\bin\Release\WpfApplication1.pdb
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.g.cs
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\App.g.cs
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.cache
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1_MarkupCompile.lref
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\MainWindow.baml
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.g.resources
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.Properties.Resources.resources
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\SocialHighlighter.csproj.GenerateResource.Cache
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.exe
+c:\users\zyang_000\documents\visual studio 2015\Projects\WpfApplication1\WpfApplication1\obj\Release\WpfApplication1.pdb
